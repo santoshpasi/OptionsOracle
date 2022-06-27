@@ -1,3 +1,3 @@
 # OptionsOracle-Pasi
 
-We have removed and see latest repositories.
+Moved to the new repository.
